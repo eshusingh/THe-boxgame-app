@@ -12,7 +12,7 @@ Time spent: **1** hour spent in total
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://j.gifs.com/vQk17L.gif' width='20%' alt='Video Walkthrough' />
+<img src='https://j.gifs.com/vQk17L.gif' width='25%' alt='Video Walkthrough' />
 
 ##Key Features:
 
